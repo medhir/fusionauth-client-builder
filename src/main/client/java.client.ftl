@@ -89,6 +89,7 @@ import io.fusionauth.domain.api.twoFactor.TwoFactorSendRequest;
 import io.fusionauth.domain.api.user.ActionRequest;
 import io.fusionauth.domain.api.user.ActionResponse;
 import io.fusionauth.domain.api.user.ChangePasswordRequest;
+import io.fusionauth.domain.api.user.ChangePasswordResponse;
 import io.fusionauth.domain.api.user.ForgotPasswordRequest;
 import io.fusionauth.domain.api.user.ForgotPasswordResponse;
 import io.fusionauth.domain.api.user.ImportRequest;
